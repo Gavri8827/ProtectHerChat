@@ -1,5 +1,5 @@
 const generateText = async (val) => {
-  //const api_key = "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";
+  //const api_key = "";
 
   const headers = {
     'Content-Type': 'application/json',
