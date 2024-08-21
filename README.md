@@ -6,6 +6,6 @@ Purpose: The application provides parents with vital information on the dangers 
 
 Features:
 
-A responsive chatbot that offers parents guidance on online risks and suggests possible ways to deal with them.
+1.responsive chatbot that offers parents guidance on online risks and suggests possible ways to deal with them.
 
-A feature that allows parents to identify harmful words in the conversations their children are having online.
+2.feature that allows parents to identify harmful words in the conversations their children are having online.
