@@ -1,4 +1,5 @@
 Web Application - Online Safety for Parents
+
 Developed during a hackathon at AppsFlyer using the React framework
 Purpose: The application provides parents with vital information on the dangers their children may face online.
 Features:
