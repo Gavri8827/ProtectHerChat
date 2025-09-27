@@ -3,19 +3,14 @@
 ## Overview
 This project developed during a hackathon at AppsFlyer using the React framework.
 The application provides parents with vital information on the dangers their children may face online.
-Main Features:
-1.responsive chatbot that offers parents guidance on online risks and suggests possible ways to deal with them.
-2.feature that allows parents to identify harmful words in the conversations their children are having online.
+## Features
+- 🔍 Real-time detection of harmful and dangerous words in chat  
+- 🤖 Interactive chatbot that guides parents about online threats  
+- 👨‍👩‍👧 Target audience: Parents who want to protect their children online  
 The client side is built using **React**, while the server side uses **Express**. The database is powered by **PostgreSQL**, and we use **pgAdmin** for database management.
+
 <img src="scshoot.png" alt="Description of image">
 
-
-## Features
-- **User Authentication**: Sign-up and login functionality for mentors and mentees.
-- **Mentor Search**: Mentees can browse and search for mentors based on their skills.
-- **Mentor Profiles**: Individual pages showcasing each mentor’s profile.
-- **Real-time Updates**: Mentors can update their availability and mentees can schedule sessions.
-  
 ## Technologies
 - **Frontend**: React
 - **Backend**: Express.js
