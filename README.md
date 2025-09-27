@@ -42,6 +42,5 @@ Clone the repository:
 Once the servers are running, you can access the application in your browser:
 
 - **Frontend**: [http://localhost:3000](http://localhost:3000)
-- **Backend**: [http://localhost:5000](http://localhost:5000)
 
 
