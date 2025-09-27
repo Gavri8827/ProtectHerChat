@@ -4,9 +4,12 @@
 This project developed during a hackathon 2024 at AppsFlyer .
 The application provides parents with vital information on the dangers their children may face online.
 
+<img src="Web.png" alt="Description of image">
+
 ## Features
 - 🔍 Real-time detection of harmful and dangerous words in chat  
-- 🤖 Interactive chatbot that guides parents about online threats  
+- 🤖 Interactive chatbot that guides parents about online threats
+  <img src="Chat.png" alt="Description of image">
 - 👨‍👩‍👧 Target audience: Parents who want to protect their children online
   
 The client side is built using **React**, while the server side uses **Next.js**. 
@@ -16,7 +19,7 @@ The backend integrates with the **OpenAI API** to analyze chat messages.
 When a user submits a message, the system sends it to the API with a custom prompt asking whether the text is harmful.  
 The response ("yes" or "no") is then returned to the frontend and displayed to the parent.  
 
-<img src="scshoot.png" alt="Description of image">
+<img src="Harm.png" alt="Description of image">
 
 ## Technologies
 - **Frontend**: React
