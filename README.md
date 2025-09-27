@@ -7,22 +7,20 @@ The application provides parents with vital information on the dangers their chi
 - 🔍 Real-time detection of harmful and dangerous words in chat  
 - 🤖 Interactive chatbot that guides parents about online threats  
 - 👨‍👩‍👧 Target audience: Parents who want to protect their children online  
-The client side is built using **React**, while the server side uses **Express**. The database is powered by **PostgreSQL**, and we use **pgAdmin** for database management.
+The client side is built using **React**, while the server side uses **Next.js**. 
 
 <img src="scshoot.png" alt="Description of image">
 
 ## Technologies
 - **Frontend**: React
-- **Backend**: Express.js
-- **Database**: PostgreSQL with pgAdmin
-- **Authentication**: bcrypt (removed in a later version)
+- **Backend**: Next.js
+- **Database**: json
 
 ## Installation
 
 ### Prerequisites
 Ensure you have the following installed:
 - Node.js
-- PostgreSQL and pgAdmin
 
 ### Setup Instructions
 1. Clone the repository:
@@ -41,24 +39,7 @@ Ensure you have the following installed:
      cd client
      npm install
      ```
-
-
-## Set up the PostgreSQL database:
-
-1. Create a new database in pgAdmin.
-2. Update the database connection configuration in the server's environment file (`.env`).
-
-## Start the development server:
-
-- Start the backend (server):
-  ```bash
-  npm start
-  ```
-- Start the frontend (client):
-  ```bash
-  cd client
-  npm start
-  ```
+     
 ## Usage
 Once the servers are running, you can access the application in your browser:
 
