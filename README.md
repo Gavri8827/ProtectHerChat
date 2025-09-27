@@ -4,7 +4,7 @@
 This project developed during a hackathon 2024 at AppsFlyer .
 The application provides parents with vital information on the dangers their children may face online.
 
-<img src="Web.png" alt="Description of image">
+<img src="Web.png" alt="Description of image" width="400">
 
 ## Features
 - 🔍 Real-time detection of harmful and dangerous words in chat  
