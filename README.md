@@ -6,7 +6,8 @@ The application provides parents with vital information on the dangers their chi
 ## Features
 - 🔍 Real-time detection of harmful and dangerous words in chat  
 - 🤖 Interactive chatbot that guides parents about online threats  
-- 👨‍👩‍👧 Target audience: Parents who want to protect their children online  
+- 👨‍👩‍👧 Target audience: Parents who want to protect their children online
+- 
 The client side is built using **React**, while the server side uses **Next.js**. 
 
 ## External API Integration
