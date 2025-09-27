@@ -9,7 +9,8 @@ The application provides parents with vital information on the dangers their chi
 ## Features
 - 🔍 Real-time detection of harmful and dangerous words in chat  
 - 🤖 Interactive chatbot that guides parents about online threats
-  <img src="Chat.png" alt="Description of image"  width="450">
+  
+  <img src="Chat.png" alt="Description of image"  width="200">
   
 👨‍👩‍👧 Target audience: Parents who want to protect their children online
   
