@@ -9,12 +9,19 @@ The application provides parents with vital information on the dangers their chi
 - 👨‍👩‍👧 Target audience: Parents who want to protect their children online  
 The client side is built using **React**, while the server side uses **Next.js**. 
 
+## External API Integration
+The backend integrates with the **OpenAI API** to analyze chat messages.  
+When a user submits a message, the system sends it to the API with a custom prompt asking whether the text is harmful.  
+The response ("yes" or "no") is then returned to the frontend and displayed to the parent.  
+
 <img src="scshoot.png" alt="Description of image">
 
 ## Technologies
 - **Frontend**: React
 - **Backend**: Next.js
-- **Database**: json
+- **Database**: JSON (mock storage for hackathon demo)  
+- **API Integration**: OpenAI GPT  
+- **Tools**: GitHub, VS Code
 
 ## Installation
 
